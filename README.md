@@ -25,10 +25,13 @@ Passos Implementados:
 4.Resultados:
 
 O ecossistema implementado demonstra a capacidade de automatizar e registrar transações de vendas de forma eficiente e precisa. Com gatilhos bem definidos e uma estrutura de banco de dados adequada, o sistema oferece uma base sólida para o acompanhamento e análise das vendas de produtos.
+
+
+    SELECT * FROM VENDAS
 ![image](https://github.com/luciomotta/Desenvolvendo-um-Ecossistema-de-Registro-de-Vendas-em-Oracle-APEX/assets/83682095/6da1bafa-8123-4cfc-82a9-5190b7ad8beb)
-
+    SELECT * FROM saldos
 ![image](https://github.com/luciomotta/Desenvolvendo-um-Ecossistema-de-Registro-de-Vendas-em-Oracle-APEX/assets/83682095/215d670d-fe05-4a01-84b6-9009270b503e)
-
+    SELECT * FROM HIST_VENDAS
 ![image](https://github.com/luciomotta/Desenvolvendo-um-Ecossistema-de-Registro-de-Vendas-em-Oracle-APEX/assets/83682095/03c9402b-cc2d-402c-a723-02c92b43247b)
 
 
